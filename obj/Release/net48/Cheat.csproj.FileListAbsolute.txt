@@ -1,0 +1,8 @@
+E:\Projects\Cheat_Decompiled\obj\Release\net48\Cheat.csproj.AssemblyReference.cache
+E:\Projects\Cheat_Decompiled\obj\Release\net48\Cheat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Cheat_Decompiled\obj\Release\net48\Cheat.csproj.CoreCompileInputs.cache
+E:\Projects\REPOCheat\Cheat_Decompiled\obj\Release\net48\Cheat.csproj.AssemblyReference.cache
+E:\Projects\REPOCheat\Cheat_Decompiled\obj\Release\net48\Cheat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\REPOCheat\Cheat_Decompiled\obj\Release\net48\Cheat.csproj.CoreCompileInputs.cache
+E:\Projects\REPOCheat\Cheat_Decompiled\bin\Release\net48\Cheat.dll
+E:\Projects\REPOCheat\Cheat_Decompiled\obj\Release\net48\Cheat.dll
