@@ -1,5 +1,19 @@
 # R.E.P.O-Cheat-Menu
 
+> **⚠️ 停止维护通知 / Deprecation Notice**
+> 
+> 本项目已停止维护。新项目地址：[https://github.com/2786256218/ASwave-R.E.P.O-New-Concept-Cheat-Menu.git](https://github.com/2786256218/ASwave-R.E.P.O-New-Concept-Cheat-Menu.git)
+> 
+> 我们可能会依照游戏更新而修复并适配本项目的可用性功能，以支持最新版的游戏，但**不会再新增任何新功能**。
+> 
+> This project is no longer maintained. Please visit the new project: [https://github.com/2786256218/ASwave-R.E.P.O-New-Concept-Cheat-Menu.git](https://github.com/2786256218/ASwave-R.E.P.O-New-Concept-Cheat-Menu.git)
+>
+> We may update and adapt the availability of existing features to support the latest version of the game, but **no new features will be added**.
+>
+> **开发者构建须知 / Build Instructions for Developers:**
+> 本项目为发行版。如果您要进行构建，请自行反编译或复制游戏中的相关 DLL 文件到项目的 `Libs` 目录中。
+> This project is a release version. If you want to build this project, please decompile or copy the relevant game DLL files into the `Libs` directory yourself.
+
 > Welcome to **R.E.P.O-Cheat-Menu**.
 
 **R.E.P.O-Cheat-Menu** is a .NET Framework based Unity / Mono DLL menu for **R.E.P.O**.  
